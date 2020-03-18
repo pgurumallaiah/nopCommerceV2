@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [nopecomerce]">
+  <listeners>
+    <listener class-name="com.nopCommercev2.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Test1(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.nopCommercev2.testcases.TC_AddCustomerTest_003">
+        <methods>
+          <include name="addNewCustomer"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nopCommercev2.testcases.TC_AddCustomerTest_003 -->
+      <class name="com.nopCommercev2.testcases.TC_SearchCustomerByRoles_006">
+        <methods>
+          <include name="searchCustomerbyRoles"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nopCommercev2.testcases.TC_SearchCustomerByRoles_006 -->
+      <class name="com.nopCommercev2.testcases.TC_SearchCustomerByName_005">
+        <methods>
+          <include name="searchCustomerbyName"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nopCommercev2.testcases.TC_SearchCustomerByName_005 -->
+      <class name="com.nopCommercev2.testcases.TC_LoginTest_001">
+        <methods>
+          <include name="loginTest"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nopCommercev2.testcases.TC_LoginTest_001 -->
+      <class name="com.nopCommercev2.testcases.TC_SearchCustomerByEmail_004">
+        <methods>
+          <include name="searchCustomerbyEmail"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.nopCommercev2.testcases.TC_SearchCustomerByEmail_004 -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [nopecomerce] -->

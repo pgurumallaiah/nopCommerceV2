@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="nopecomerce" >
+<listeners>
+	<listener class-name="com.nopCommercev2.utilities.Reporting"/>
+</listeners>
+
+<test  thread-count="2"  name="Test1">
+<parameter name="browser" value="chrome"/>
+<classes>
+<class name ="com.nopCommercev2.testcases.TC_LoginTest_001"/>
+<class name="com.nopCommercev2.testcases.TC_LoginDDT_002"/>
+<class name="com.nopCommercev2.testcases.TC_AddCustomerTest_003"/>
+<class name="com.nopCommercev2.testcases.TC_SearchCustomerByEmail_004"/>
+<class name="com.nopCommercev2.testcases.TC_SearchCustomerByName_005"/>
+<class name="com.nopCommercev2.testcases.TC_SearchCustomerByRoles_006"/>
+</classes>
+</test>
+</suite>
+
+

@@ -1,0 +1,167 @@
+2020-03-12 00:52:59,621 [main] INFO nopCommercev2 - URL is opened
+2020-03-12 00:53:01,539 [main] INFO nopCommercev2 - user name provided
+2020-03-12 00:53:01,890 [main] INFO nopCommercev2 - user password provided
+2020-03-12 00:53:10,620 [main] INFO nopCommercev2 - user clicked on the logging button
+2020-03-12 00:53:15,637 [main] INFO nopCommercev2 - Login passed
+2020-03-12 01:48:39,681 [main] INFO nopCommercev2 - URL is opened
+2020-03-12 01:48:41,120 [main] INFO nopCommercev2 - user name provided
+2020-03-12 01:48:41,326 [main] INFO nopCommercev2 - user password provided
+2020-03-12 01:48:42,038 [main] INFO nopCommercev2 - user clicked on the logging button
+2020-03-12 01:48:47,050 [main] INFO nopCommercev2 - Login passed
+2020-03-12 01:54:42,793 [main] INFO nopCommercev2 - URL is opened
+2020-03-12 02:00:12,225 [main] INFO nopCommercev2 - URL is opened
+2020-03-12 02:00:13,712 [main] INFO nopCommercev2 - user name provided
+2020-03-12 02:00:13,877 [main] INFO nopCommercev2 - user password provided
+2020-03-12 02:00:21,635 [main] INFO nopCommercev2 - user clicked on the logging button
+2020-03-12 02:00:26,649 [main] INFO nopCommercev2 - Login passed
+2020-03-12 09:20:14,280 [main] INFO nopCommercev2 - URL is opened
+2020-03-12 09:20:15,992 [main] INFO nopCommercev2 - user name provided
+2020-03-12 09:20:16,210 [main] INFO nopCommercev2 - user password provided
+2020-03-12 09:20:24,790 [main] INFO nopCommercev2 - user clicked on the logging button
+2020-03-12 09:20:29,814 [main] INFO nopCommercev2 - Login passed
+2020-03-12 09:25:54,405 [main] INFO nopCommercev2 - URL is opened
+2020-03-12 09:25:56,246 [main] INFO nopCommercev2 - user name provided
+2020-03-12 09:25:56,452 [main] INFO nopCommercev2 - user password provided
+2020-03-12 09:26:05,044 [main] INFO nopCommercev2 - user clicked on the logging button
+2020-03-12 09:26:10,087 [main] INFO nopCommercev2 - Login passed
+2020-03-12 09:36:17,474 [main] INFO nopCommercev2 - URL is opened
+2020-03-12 09:36:19,325 [main] INFO nopCommercev2 - user name provided
+2020-03-12 09:36:19,596 [main] INFO nopCommercev2 - user password provided
+2020-03-12 09:36:31,496 [main] INFO nopCommercev2 - user clicked on the logging button
+2020-03-12 09:36:36,536 [main] INFO nopCommercev2 - Login passed
+2020-03-12 10:27:35,838 [main] INFO nopCommercev2 - URL is opened
+2020-03-12 10:27:37,207 [main] INFO nopCommercev2 - user name provided
+2020-03-12 10:27:37,292 [main] INFO nopCommercev2 - user password provided
+2020-03-12 10:27:41,264 [main] INFO nopCommercev2 - user clicked on the logging button
+2020-03-12 10:27:46,321 [main] INFO nopCommercev2 - Login passed
+2020-03-12 10:28:33,767 [main] INFO nopCommercev2 - URL is opened
+2020-03-12 10:28:35,157 [main] INFO nopCommercev2 - user name provided
+2020-03-12 10:28:35,273 [main] INFO nopCommercev2 - user password provided
+2020-03-12 10:28:39,218 [main] INFO nopCommercev2 - user clicked on the logging button
+2020-03-12 10:28:44,218 [main] INFO nopCommercev2 - Login passed
+2020-03-12 15:11:35,967 [main] INFO nopCommercev2 - URL is opened
+2020-03-12 15:11:37,366 [main] INFO nopCommercev2 - user name provided
+2020-03-12 15:11:37,551 [main] INFO nopCommercev2 - user password provided
+2020-03-12 15:11:43,412 [main] INFO nopCommercev2 - user clicked on the logging button
+2020-03-12 15:11:48,422 [main] INFO nopCommercev2 - Login passed
+2020-03-12 16:10:11,728 [main] INFO nopCommercev2 - User provided
+2020-03-12 16:10:11,852 [main] INFO nopCommercev2 - Password provided
+2020-03-12 16:10:17,870 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 16:10:22,259 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 16:25:33,189 [main] INFO nopCommercev2 - User provided
+2020-03-12 16:25:33,305 [main] INFO nopCommercev2 - Password provided
+2020-03-12 16:25:39,215 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 16:25:42,862 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 18:47:02,580 [main] INFO nopCommercev2 - User provided
+2020-03-12 18:47:02,726 [main] INFO nopCommercev2 - Password provided
+2020-03-12 18:47:07,863 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 18:47:10,656 [main] INFO nopCommercev2 - Login Failed
+2020-03-12 18:47:25,095 [main] INFO nopCommercev2 - User provided
+2020-03-12 18:47:25,304 [main] INFO nopCommercev2 - Password provided
+2020-03-12 18:47:31,678 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 18:47:35,465 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 18:47:36,970 [main] INFO nopCommercev2 - User provided
+2020-03-12 18:47:37,127 [main] INFO nopCommercev2 - Password provided
+2020-03-12 18:47:41,106 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 18:47:45,243 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 18:47:46,695 [main] INFO nopCommercev2 - User provided
+2020-03-12 18:47:46,871 [main] INFO nopCommercev2 - Password provided
+2020-03-12 18:47:50,148 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 18:47:54,360 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 18:47:56,062 [main] INFO nopCommercev2 - User provided
+2020-03-12 18:47:56,223 [main] INFO nopCommercev2 - Password provided
+2020-03-12 18:47:59,820 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 18:48:03,630 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 18:52:49,229 [main] INFO nopCommercev2 - User provided
+2020-03-12 18:52:49,414 [main] INFO nopCommercev2 - Password provided
+2020-03-12 18:52:54,933 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 18:52:57,442 [main] INFO nopCommercev2 - Login Failed
+2020-03-12 18:53:11,278 [main] INFO nopCommercev2 - User provided
+2020-03-12 18:53:11,404 [main] INFO nopCommercev2 - Password provided
+2020-03-12 18:53:16,934 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 18:53:21,652 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 18:53:23,473 [main] INFO nopCommercev2 - User provided
+2020-03-12 18:53:23,639 [main] INFO nopCommercev2 - Password provided
+2020-03-12 18:53:27,155 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 18:53:31,137 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 18:53:32,738 [main] INFO nopCommercev2 - User provided
+2020-03-12 18:53:32,961 [main] INFO nopCommercev2 - Password provided
+2020-03-12 18:53:36,930 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 18:53:40,889 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 18:53:42,459 [main] INFO nopCommercev2 - User provided
+2020-03-12 18:53:42,590 [main] INFO nopCommercev2 - Password provided
+2020-03-12 18:53:45,177 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 18:53:49,103 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 22:48:34,260 [main] INFO nopCommercev2 - User provided
+2020-03-12 22:48:34,391 [main] INFO nopCommercev2 - Password provided
+2020-03-12 22:48:40,759 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 22:48:43,364 [main] INFO nopCommercev2 - Login Failed
+2020-03-12 22:48:59,326 [main] INFO nopCommercev2 - User provided
+2020-03-12 22:48:59,699 [main] INFO nopCommercev2 - Password provided
+2020-03-12 22:49:07,413 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 22:49:11,424 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 22:49:15,907 [main] INFO nopCommercev2 - User provided
+2020-03-12 22:49:16,075 [main] INFO nopCommercev2 - Password provided
+2020-03-12 22:49:21,886 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 22:49:26,672 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 22:49:28,356 [main] INFO nopCommercev2 - User provided
+2020-03-12 22:49:28,487 [main] INFO nopCommercev2 - Password provided
+2020-03-12 22:49:31,862 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 22:49:35,848 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 22:49:37,639 [main] INFO nopCommercev2 - User provided
+2020-03-12 22:49:37,844 [main] INFO nopCommercev2 - Password provided
+2020-03-12 22:49:41,476 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 22:49:45,663 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 22:49:58,380 [main] INFO nopCommercev2 - User name is provided
+2020-03-12 22:49:58,667 [main] INFO nopCommercev2 - password is provided
+2020-03-12 22:50:06,660 [main] INFO nopCommercev2 - providing customer details....
+2020-03-12 22:50:20,320 [main] INFO nopCommercev2 - validation started....
+2020-03-12 22:50:20,756 [main] INFO nopCommercev2 - test case passed....
+2020-03-12 23:13:35,793 [main] INFO nopCommercev2 - User provided
+2020-03-12 23:13:36,040 [main] INFO nopCommercev2 - Password provided
+2020-03-12 23:13:44,431 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 23:13:47,234 [main] INFO nopCommercev2 - Login Failed
+2020-03-12 23:14:02,466 [main] INFO nopCommercev2 - User provided
+2020-03-12 23:14:02,619 [main] INFO nopCommercev2 - Password provided
+2020-03-12 23:14:08,329 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 23:14:12,307 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 23:14:13,901 [main] INFO nopCommercev2 - User provided
+2020-03-12 23:14:14,095 [main] INFO nopCommercev2 - Password provided
+2020-03-12 23:14:17,549 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 23:14:21,425 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 23:14:22,954 [main] INFO nopCommercev2 - User provided
+2020-03-12 23:14:23,117 [main] INFO nopCommercev2 - Password provided
+2020-03-12 23:14:26,135 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 23:14:30,336 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 23:14:32,025 [main] INFO nopCommercev2 - User provided
+2020-03-12 23:14:32,223 [main] INFO nopCommercev2 - Password provided
+2020-03-12 23:14:35,618 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-12 23:14:39,532 [main] INFO nopCommercev2 - Login Passed
+2020-03-12 23:14:52,303 [main] INFO nopCommercev2 - User name is provided
+2020-03-12 23:14:52,489 [main] INFO nopCommercev2 - password is provided
+2020-03-12 23:14:59,420 [main] INFO nopCommercev2 - providing customer details....
+2020-03-12 23:15:11,947 [main] INFO nopCommercev2 - validation started....
+2020-03-12 23:15:12,867 [main] INFO nopCommercev2 - test case passed....
+2020-03-16 16:18:34,544 [main] INFO nopCommercev2 - User provided
+2020-03-16 16:18:34,657 [main] INFO nopCommercev2 - Password provided
+2020-03-16 16:18:42,910 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-16 16:18:46,021 [main] INFO nopCommercev2 - Login Failed
+2020-03-16 16:19:02,974 [main] INFO nopCommercev2 - User provided
+2020-03-16 16:19:03,069 [main] INFO nopCommercev2 - Password provided
+2020-03-16 16:19:13,784 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-16 16:19:19,195 [main] INFO nopCommercev2 - Login Passed
+2020-03-16 16:19:20,840 [main] INFO nopCommercev2 - User provided
+2020-03-16 16:19:20,915 [main] INFO nopCommercev2 - Password provided
+2020-03-16 16:19:25,947 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-16 16:19:31,060 [main] INFO nopCommercev2 - Login Passed
+2020-03-16 16:19:32,598 [main] INFO nopCommercev2 - User provided
+2020-03-16 16:19:32,767 [main] INFO nopCommercev2 - Password provided
+2020-03-16 16:19:37,086 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-16 16:19:41,185 [main] INFO nopCommercev2 - Login Passed
+2020-03-16 16:19:42,817 [main] INFO nopCommercev2 - User provided
+2020-03-16 16:19:42,897 [main] INFO nopCommercev2 - Password provided
+2020-03-16 16:19:46,673 [main] INFO nopCommercev2 - Login in Clicked
+2020-03-16 16:19:50,640 [main] INFO nopCommercev2 - Login Passed
+2020-03-16 16:20:06,394 [main] INFO nopCommercev2 - User name is provided
+2020-03-16 16:20:06,487 [main] INFO nopCommercev2 - password is provided
+2020-03-16 16:20:13,134 [main] INFO nopCommercev2 - providing customer details....
